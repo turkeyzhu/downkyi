@@ -36,6 +36,7 @@
 </p>
 
 [更新日志](CHANGELOG.md)
+添加了ffplay播放支持。
 
 ## 问题
 
@@ -48,8 +49,9 @@
 
 如果这个项目对您有很大帮助，并且您希望支持该项目的开发和维护，请随时扫描一下二维码进行捐赠。非常感谢您的捐款，谢谢！
 
-![Alipay.png](https://s2.loli.net/2022/06/04/6LpfinSa5FoZmNB.png)
-![WeChat.png](https://s2.loli.net/2022/06/04/2yotOSvwmahPdXU.png)
+![Alipay.png](https://gitee.com/turkeyzhu/euler_sec_develop/raw/downkiy/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250411133017.png)
+![WeChat.png](https://gitee.com/turkeyzhu/euler_sec_develop/raw/downkiy/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250411132949.png)
+
 
 ## 开发
 
